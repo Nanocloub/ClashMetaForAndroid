@@ -181,7 +181,7 @@
     <string name="verifying">正在校验</string>
     <string name="force_enable">强制启用</string>
     <string name="document">文档</string>
-    <string name="clash_wiki">Clash Wiki</string>
+    <string name="clash_wiki">TG频道</string>
     <string name="invalid_file_name">非法的文件名称</string>
     <string name="reset_override_settings">重置覆写设置</string>
     <string name="reset_override_settings_message">所有的覆写设置将会被擦除</string>
@@ -221,7 +221,7 @@
     <string name="allow_bypass_summary">允许其他应用绕过 VPN</string>
     <string name="allow_ipv6">允许 Ipv6</string>
     <string name="allow_ipv6_summary">通过 VpnService 代理 Ipv6 流量</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">官网</string>
     <string name="meta_features">Meta 特性</string>
     <string name="unified_delay">统一延迟</string>
     <string name="geodata_mode">Geodata 模式</string>

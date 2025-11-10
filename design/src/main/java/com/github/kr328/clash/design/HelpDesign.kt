@@ -53,8 +53,9 @@ class HelpDesign(
                 }
             }
 
-            category(R.string.sources)
+            // category(R.string.sources)
 
+            /*
             clickable(
                 title = R.string.clash_meta_core,
                 summary = R.string.clash_meta_core_url
@@ -72,6 +73,7 @@ class HelpDesign(
                     openLink(Uri.parse(context.getString(R.string.meta_github_url)))
                 }
             }
+            */
         }
 
         binding.content.addView(screen.root)

@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
-    <string name="launch_name_meta">Clash Meta</string>
-    <string name="launch_name_alpha">Clash Meta Alpha</string>
+    <string name="launch_name_meta">Meta</string>
+    <string name="launch_name_alpha">Meta</string>
     <string name="application_name_meta">Clash Meta for Android</string>
     <string name="application_name_alpha">Clash Meta for Android Alpha</string>
 
@@ -215,11 +215,11 @@
     <string name="feedback">Feedback</string>
     <string name="sources">Sources</string>
     <string name="donate">Donate</string>
-    <string name="clash_wiki">Clash Wiki</string>
+    <string name="clash_wiki">TG频道</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
     <string name="clash_meta_core">Clash Meta Core</string>
-    <string name="clash_wiki_url" translatable="false">https://github.com/Dreamacro/clash/wiki</string>
+    <string name="clash_wiki_url" translatable="false">https://t.me/+KkJpoRlvXbgzZDc1</string>
     <string name="meta_github_url" translatable="false">https://github.com/MetaCubeX/ClashMetaForAndroid</string>
     <string name="clash_meta_core_url" translatable="false">https://github.com/MetaCubeX/Clash.Meta</string>
 
@@ -294,8 +294,8 @@
 
     <string name="mode_switch_tips">Valid only for current session</string>
 
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
-    <string name="clash_meta_wiki_url" translatable="false">https://wiki.metacubex.one</string>
+    <string name="clash_meta_wiki">官网</string>
+    <string name="clash_meta_wiki_url" translatable="false">https://47.83.166.245</string>
 
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>

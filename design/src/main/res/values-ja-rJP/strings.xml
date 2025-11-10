@@ -164,7 +164,7 @@
     <string name="feedback">フィードバック</string>
     <string name="sources">ソース</string>
     <string name="donate">寄付</string>
-    <string name="clash_wiki">Clash Wiki</string>
+    <string name="clash_wiki">TG频道</string>
     <string name="github_issues">Github Issues</string>
     <string name="google_play">Google Play</string>
     <string name="clash_meta_core">Clash Meta Core</string>
@@ -214,7 +214,7 @@
     <string name="version_updated">アプリを更新しました</string>
     <string name="version_updated_tips">未設定のプロファイルは、再度保存する必要があります。</string>
     <string name="mode_switch_tips">このセッションでのみ有効です</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">官网</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>

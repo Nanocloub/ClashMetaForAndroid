@@ -175,7 +175,7 @@
     <string name="verifying">正在校驗</string>
     <string name="force_enable">強制啓用</string>
     <string name="document">文檔</string>
-    <string name="clash_wiki">Clash Wiki</string>
+    <string name="clash_wiki">TG频道</string>
     <string name="invalid_file_name">非法的文件名稱</string>
     <string name="reset_override_settings">重置覆寫設置</string>
     <string name="reset_override_settings_message">所有的覆寫設置將會被擦除</string>
@@ -210,7 +210,7 @@
     <string name="block_loopback">阻止本地迴環</string>
     <string name="block_loopback_summary">阻止本地迴環連接</string>
     <string name="clash_meta_for_android">Clash Meta for Android</string>
-    <string name="clash_meta_wiki">Clash Meta Wiki</string>
+    <string name="clash_meta_wiki">官网</string>
     <string name="meta_features">Meta Features</string>
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
